@@ -1,0 +1,4809 @@
+[2025-05-08 17:00:18] Starting savestep1.php
+[2025-05-08 17:00:18] POST data: Array
+(
+    [last_name] => Regalado
+    [first_name] => Ashley
+    [middle_name] => Ilon
+    [birth_date] => 2025-02-05
+    [age] => 0
+    [sex] => Female
+    [contact_number] => 09078060012
+    [region] => 100000000
+    [province] => 104300000
+    [city] => 104317000
+    [barangay] => 104317003
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => 1
+    [access_internet] => 1
+    [access_mobile] => 1
+    [indigenous_group] => 1
+    [first_gen_college] => 1
+    [was_scholar] => 1
+    [received_honors] => 1
+    [has_disability] => 0
+    [disability_detail] => 
+)
+
+[2025-05-08 17:00:18] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpA495.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-08 17:00:18] Error: Missing required fields: age
+[2025-05-08 17:00:40] Starting savestep1.php
+[2025-05-08 17:00:40] POST data: Array
+(
+    [last_name] => Regalado
+    [first_name] => Ashley
+    [middle_name] => Ilon
+    [birth_date] => 2018-03-06
+    [age] => 7
+    [sex] => Female
+    [contact_number] => 09078060012
+    [region] => 100000000
+    [province] => 104300000
+    [city] => 104317000
+    [barangay] => 104317003
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => 1
+    [access_internet] => 1
+    [access_mobile] => 1
+    [indigenous_group] => 1
+    [first_gen_college] => 1
+    [was_scholar] => 1
+    [received_honors] => 1
+    [has_disability] => 0
+    [disability_detail] => 
+)
+
+[2025-05-08 17:00:40] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF7B7.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-08 17:00:40] Database connection successful
+[2025-05-08 17:00:40] Personal info ID: 1
+[2025-05-08 17:00:40] Session data after save: Array
+(
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                    [id_picture] => Array
+                        (
+                        )
+
+                    [last_name] => Regalado
+                    [first_name] => Ashley
+                    [middle_name] => ARANTE
+                    [birth_date] => 2016-12-06
+                    [age] => 8
+                    [sex] => Female
+                    [contact_number] => 09984175235
+                    [region] => 140000000
+                    [province] => 140100000
+                    [city] => 140118000
+                    [barangay] => 140118018
+                    [street] => Gamboa
+                    [marital_status] => Single
+                    [religion] => None
+                    [orientation] => Heterosexual
+                    [father_status] => Alive; Away
+                    [father_education] => No High School Diploma
+                    [father_employment] => Employed Full-Time
+                    [mother_status] => Alive; Away
+                    [mother_education] => No High School Diploma
+                    [mother_employment] => Employed Full-Time
+                    [siblings] => None
+                    [living_with] => Both parents
+                    [access_computer] => 1
+                    [access_internet] => 1
+                    [access_mobile] => 1
+                    [indigenous_group] => 1
+                    [first_gen_college] => 1
+                    [was_scholar] => 1
+                    [received_honors] => 1
+                    [has_disability] => 0
+                    [disability_detail] => 
+                    [last_school_attended] => 
+                    [g11_1st_avg] => 
+                    [g11_2nd_avg] => 
+                    [g12_1st_avg] => 
+                    [academic_award] => 
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                    [selected_campus] => Talisay
+                    [selected_college] => CCS
+                    [program] => BSIS
+                    [g11_1st] => Array
+                        (
+                        )
+
+                    [g11_2nd] => Array
+                        (
+                        )
+
+                    [g12_1st] => Array
+                        (
+                        )
+
+                    [ncii] => Array
+                        (
+                        )
+
+                    [guidance_cert] => Array
+                        (
+                        )
+
+                    [additional_file] => Array
+                        (
+                        )
+
+                )
+
+            [step4] => Array
+                (
+                )
+
+            [stepstep1] => Array
+                (
+                    [id_picture] => Array
+                        (
+                        )
+
+                    [last_name] => REGALADO
+                    [first_name] => ASHLEY
+                    [middle_name] => ILON
+                    [birth_date] => 2025-05-01
+                    [age] => 0
+                    [sex] => Male
+                    [contact_number] => 09123456
+                    [region] => 040000000
+                    [province] => 041000000
+                    [city] => 041001000
+                    [barangay] => 041001001
+                    [street] => Gamboa
+                    [marital_status] => Single
+                    [religion] => None
+                    [orientation] => Heterosexual
+                    [father_status] => Alive; Away
+                    [father_education] => Graduate Degree
+                    [father_employment] => Employed Full-Time
+                    [mother_status] => Alive; Away
+                    [mother_education] => No High School Diploma
+                    [mother_employment] => Employed Full-Time
+                    [siblings] => None
+                    [living_with] => Both parents
+                    [access_computer] => 1
+                    [access_internet] => 1
+                    [access_mobile] => 1
+                    [indigenous_group] => 0
+                    [first_gen_college] => 1
+                    [was_scholar] => 0
+                    [received_honors] => 1
+                    [has_disability] => 0
+                    [disability_detail] => 
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-05-08 22:00:07] Starting savestep1.php
+[2025-05-08 22:00:07] POST data: Array
+(
+    [last_name] => Santiago
+    [first_name] => Michael
+    [middle_name] => REGALADO
+    [birth_date] => 2005-06-23
+    [age] => 19
+    [sex] => Female
+    [contact_number] => 09984175235
+    [region] => 090000000
+    [region_name] => Zamboanga Peninsula
+    [province] => 097300000
+    [province_name] => Zamboanga Del Sur
+    [city] => 097322000
+    [city_name] => City of Pagadian
+    [barangay] => 097322018
+    [barangay_name] => Gatas (Pob.)
+    [street] => Gamboa
+    [marital_status] => Married
+    [religion] => Christianity
+    [orientation] => Homosexual
+    [father_status] => Alive; at Home
+    [father_education] => High School Diploma
+    [father_employment] => Employed Part-Time
+    [mother_status] => Alive; at Home
+    [mother_education] => High School Diploma
+    [mother_employment] => Employed Part-Time
+    [siblings] => Two or more
+    [living_with] => Both parents
+    [access_computer] => 1
+    [access_internet] => 1
+    [access_mobile] => 1
+    [indigenous_group] => 1
+    [first_gen_college] => 1
+    [was_scholar] => 1
+    [received_honors] => 1
+    [has_disability] => 0
+    [disability_detail] => 
+)
+
+[2025-05-08 22:00:07] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2024-11-16 223551.png
+            [full_path] => Screenshot 2024-11-16 223551.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php21E5.tmp
+            [error] => 0
+            [size] => 1341698
+        )
+
+)
+
+[2025-05-08 22:00:07] Database connection successful
+[2025-05-08 22:00:07] Personal info ID: 2
+[2025-05-08 22:00:07] Session data after save: Array
+(
+    [user_id] => 21
+    [email] => mdsantiago.chmsu@gmail.com
+    [name] => Michael Santiago
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [error] => Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'capstone.exam_submissions' doesn't exist
+    [personal_info_id] => 2
+)
+
+[2025-05-09 06:30:02] Starting savestep1.php
+[2025-05-09 06:30:02] POST data: Array
+(
+    [last_name] => REGALADO
+    [first_name] => ASHLEY CARYLL
+    [middle_name] => JARANILLA
+    [birth_date] => 2014-12-29
+    [age] => 10
+    [sex] => Female
+    [contact_number] => 09984175235
+    [region] => 090000000
+    [region_name] => Zamboanga Peninsula
+    [province] => 097200000
+    [province_name] => Zamboanga Del Norte
+    [city] => 097207000
+    [city_name] => Manukan
+    [barangay] => 097207022
+    [barangay_name] => Palaranan
+    [street] => Gamboa
+    [marital_status] => Married
+    [religion] => Christianity
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => 1
+    [access_internet] => 1
+    [access_mobile] => 1
+    [indigenous_group] => 1
+    [first_gen_college] => 1
+    [was_scholar] => 0
+    [received_honors] => 1
+    [has_disability] => 0
+    [disability_detail] => 
+)
+
+[2025-05-09 06:30:02] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => WIN_20250508_15_53_13_Pro.jpg
+            [full_path] => WIN_20250508_15_53_13_Pro.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF8EA.tmp
+            [error] => 0
+            [size] => 143937
+        )
+
+)
+
+[2025-05-09 06:30:02] Database connection successful
+[2025-05-09 06:30:02] Personal info ID: 3
+[2025-05-09 06:30:02] Linked personal_info_id 3 to registration id 23
+[2025-05-09 06:30:02] Session data after save: Array
+(
+    [registration_id] => 23
+    [user_id] => 23
+    [email] => acregalado.chmsu@gmail.com
+    [name] => Ashley Regalado
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 3
+)
+
+[2025-05-09 11:34:13] Starting savestep1.php
+[2025-05-09 11:34:13] POST data: Array
+(
+    [last_name] => Regalado
+    [first_name] => Ashley
+    [middle_name] => ILON
+    [birth_date] => 2013-02-06
+    [age] => 12
+    [sex] => Female
+    [contact_number] => 09984175235
+    [region] => 090000000
+    [region_name] => Zamboanga Peninsula
+    [province] => 097200000
+    [province_name] => Zamboanga Del Norte
+    [city] => 097211000
+    [city_name] => Pres. Manuel a. Roxas
+    [barangay] => 097211012
+    [barangay_name] => Piñalan
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => 1
+    [access_internet] => 1
+    [access_mobile] => 1
+    [indigenous_group] => 1
+    [first_gen_college] => 1
+    [was_scholar] => 1
+    [received_honors] => 1
+    [has_disability] => 0
+    [disability_detail] => 
+)
+
+[2025-05-09 11:34:13] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-05-09 155204.png
+            [full_path] => Screenshot 2025-05-09 155204.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php767E.tmp
+            [error] => 0
+            [size] => 87524
+        )
+
+)
+
+[2025-05-09 11:34:13] Database connection successful
+[2025-05-09 11:34:13] Personal info ID: 4
+[2025-05-09 11:34:13] Linked personal_info_id 4 to registration id 27
+[2025-05-09 11:34:13] Session data after save: Array
+(
+    [registration_id] => 27
+    [user_id] => 27
+    [email] => acregalado.chmsu@gmail.com
+    [name] => Ashley Regalado
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 4
+)
+
+[2025-05-11 08:57:43] Starting savestep1.php
+[2025-05-11 08:57:43] POST data: Array
+(
+    [last_name] => Regalado
+    [first_name] => Ashley
+    [middle_name] => Egloria
+    [birth_date] => 2003-12-29
+    [age] => 21
+    [sex] => Female
+    [contact_number] => 09078060012
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064501000
+    [city_name] => City of Bacolod
+    [barangay] => 064501054
+    [barangay_name] => Punta Taytay
+    [street] => Mangga
+    [marital_status] => Married
+    [religion] => Christianity
+    [orientation] => Heterosexual
+    [father_status] => Unknown
+    [father_education] => No High School Diploma
+    [father_employment] => Unemployed
+    [mother_status] => Alive; Away
+    [mother_education] => High School Diploma
+    [mother_employment] => Employed Part-Time
+    [siblings] => None
+    [living_with] => Relatives
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-11 08:57:43] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpCA5D.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-11 08:57:43] Database connection successful
+[2025-05-11 08:57:43] Personal info ID: 5
+[2025-05-11 08:57:43] Session data after save: Array
+(
+    [user_id] => 27
+    [email] => acregalado.chmsu@gmail.com
+    [name] => Ashley Regalado
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 5
+)
+
+[2025-05-11 17:36:50] Starting savestep1.php
+[2025-05-11 17:36:50] POST data: Array
+(
+    [last_name] => Iglesia
+    [first_name] => Carl
+    [middle_name] => Arante
+    [birth_date] => 2004-05-22
+    [age] => 20
+    [sex] => Male
+    [contact_number] => 09984175235
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064531000
+    [city_name] => City of Victorias
+    [barangay] => 064531023
+    [barangay_name] => Barangay XVIII
+    [street] => Torreno
+    [marital_status] => Divorced
+    [religion] => None
+    [orientation] => Homosexual
+    [father_status] => Unknown
+    [father_education] => No High School Diploma
+    [father_employment] => Unemployed
+    [mother_status] => Alive; at Home
+    [mother_education] => Graduate Degree
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => One parent only
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => Yes
+    [disability_detail] => Scoliosis
+)
+
+[2025-05-11 17:36:50] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => WIN_20250425_17_07_42_Pro.jpg
+            [full_path] => WIN_20250425_17_07_42_Pro.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpEE2.tmp
+            [error] => 0
+            [size] => 157734
+        )
+
+)
+
+[2025-05-11 17:36:50] Database connection successful
+[2025-05-11 17:36:50] Personal info ID: 6
+[2025-05-11 17:36:50] Linked personal_info_id 6 to registration id 20260003
+[2025-05-11 17:36:50] Session data after save: Array
+(
+    [registration_id] => 20260003
+    [user_id] => 20260003
+    [email] => carliglesia113@gmail.com
+    [name] => Carl Regalado
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 6
+)
+
+[2025-05-13 09:34:37] Starting savestep1.php
+[2025-05-13 09:34:37] POST data: Array
+(
+    [last_name] => Padreganda
+    [first_name] => Kim Phillip
+    [middle_name] => Batayen
+    [birth_date] => 2004-02-02
+    [age] => 21
+    [sex] => Male
+    [contact_number] => 09984175235
+    [region] => 120000000
+    [region_name] => SOCCSKSARGEN
+    [province] => 128000000
+    [province_name] => Sarangani
+    [city] => 128003000
+    [city_name] => Kiamba
+    [barangay] => 128003012
+    [barangay_name] => Maligang
+    [street] => Gamboa
+    [marital_status] => Married
+    [religion] => Hinduism
+    [orientation] => Homosexual
+    [father_status] => Alive; Away
+    [father_education] => Bachelor's Degree
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => One
+    [living_with] => Relatives
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => Yes
+    [has_disability] => Yes
+    [disability_detail] => Padreganda
+)
+
+[2025-05-13 09:34:37] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php45FA.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-13 09:34:37] Database connection successful
+[2025-05-13 09:34:37] Personal info ID: 7
+[2025-05-13 09:34:37] Linked personal_info_id 7 to registration id 20260005
+[2025-05-13 09:34:37] Session data after save: Array
+(
+    [registration_id] => 20260005
+    [user_id] => 20260005
+    [email] => kbpadreganda.chmsu@gmail.com
+    [name] => Kim Phillip Padreganda
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 7
+)
+
+[2025-05-14 09:59:32] Starting savestep1.php
+[2025-05-14 09:59:32] POST data: Array
+(
+    [last_name] => Guiagogo
+    [first_name] => Mark Lloyd
+    [middle_name] => jaranilla
+    [birth_date] => 2024-09-04
+    [age] => 0
+    [sex] => Female
+    [contact_number] => 09984175235
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064517000
+    [city_name] => La Castellana
+    [barangay] => 064517008
+    [barangay_name] => Mansalanao
+    [street] => Gamboa
+    [marital_status] => Married
+    [religion] => Christianity
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => One
+    [living_with] => One parent only
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-14 09:59:32] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2024-11-16 085509 - Copy.png
+            [full_path] => Screenshot 2024-11-16 085509 - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php728E.tmp
+            [error] => 0
+            [size] => 17020
+        )
+
+)
+
+[2025-05-14 09:59:32] Error: Missing required fields: age
+[2025-05-14 09:59:51] Starting savestep1.php
+[2025-05-14 09:59:51] POST data: Array
+(
+    [last_name] => Guiagogo
+    [first_name] => Mark Lloyd
+    [middle_name] => jaranilla
+    [birth_date] => 2012-12-21
+    [age] => 12
+    [sex] => Female
+    [contact_number] => 09984175235
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064517000
+    [city_name] => La Castellana
+    [barangay] => 064517008
+    [barangay_name] => Mansalanao
+    [street] => Gamboa
+    [marital_status] => Married
+    [religion] => Christianity
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => One
+    [living_with] => One parent only
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-14 09:59:51] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2024-11-16 085509 - Copy.png
+            [full_path] => Screenshot 2024-11-16 085509 - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpBBEC.tmp
+            [error] => 0
+            [size] => 17020
+        )
+
+)
+
+[2025-05-14 09:59:51] Database connection successful
+[2025-05-14 09:59:51] Personal info ID: 8
+[2025-05-14 09:59:51] Linked personal_info_id 8 to registration id 20260008
+[2025-05-14 09:59:51] Session data after save: Array
+(
+    [chair_id] => 1
+    [chair_name] => DANES TUMABING
+    [designation] => Program Chair
+    [program] => BSIS
+    [campus] => Talisay
+    [registration_id] => 20260008
+    [user_id] => 20260008
+    [email] => matyasaqoe@gmail.com
+    [name] => Mark Lloyd Guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 8
+)
+
+[2025-05-15 04:49:32] Starting savestep1.php
+[2025-05-15 04:49:32] POST data: Array
+(
+    [last_name] => CASIPE
+    [first_name] => BEVERLY
+    [middle_name] => 
+    [birth_date] => 2010-02-08
+    [age] => 15
+    [sex] => Female
+    [contact_number] => 09123456789
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 061900000
+    [province_name] => Capiz
+    [city] => 061910000
+    [city_name] => Panitan
+    [barangay] => 061910014
+    [barangay_name] => Conciencia
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => Christianity
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => No
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-15 04:49:32] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpFDF0.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-15 04:49:32] Database connection successful
+[2025-05-15 04:49:32] Personal info ID: 9
+[2025-05-15 04:49:32] Session data after save: Array
+(
+    [chair_id] => 1
+    [chair_name] => DANES TUMABING
+    [designation] => Program Chair
+    [program] => BSIS
+    [campus] => Talisay
+    [personal_info_id] => 9
+)
+
+[2025-05-15 05:01:26] Starting savestep1.php
+[2025-05-15 05:01:26] POST data: Array
+(
+    [last_name] => CASIPE
+    [first_name] => BEVERLY
+    [middle_name] => Tumabing
+    [birth_date] => 2017-07-14
+    [age] => 7
+    [sex] => Female
+    [contact_number] => 09123456998
+    [region] => 090000000
+    [region_name] => Zamboanga Peninsula
+    [province] => 097200000
+    [province_name] => Zamboanga Del Norte
+    [city] => 097207000
+    [city_name] => Manukan
+    [barangay] => 097207022
+    [barangay_name] => Palaranan
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-15 05:01:26] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpE18E.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-15 05:01:26] Database connection successful
+[2025-05-15 05:01:26] Personal info ID: 10
+[2025-05-15 05:01:26] Session data after save: Array
+(
+    [chair_id] => 1
+    [chair_name] => DANES TUMABING
+    [designation] => Program Chair
+    [program] => BSIS
+    [campus] => Talisay
+    [personal_info_id] => 10
+    [user_id] => 20260009
+    [email] => bcasipe.chmsu@gmail.com
+    [name] => BEVERLY CASIPE
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-05-15 09:58:31] Starting savestep1.php
+[2025-05-15 09:58:31] POST data: Array
+(
+    [last_name] => Jaranilla
+    [first_name] => Kris
+    [middle_name] => guiagogo
+    [birth_date] => 2009-12-15
+    [age] => 15
+    [sex] => Female
+    [contact_number] => 09984175235
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064510000
+    [city_name] => City of Himamaylan
+    [barangay] => 064510010
+    [barangay_name] => Mahalang
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-15 09:58:31] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2024-11-16 223551.png
+            [full_path] => Screenshot 2024-11-16 223551.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpE0D2.tmp
+            [error] => 0
+            [size] => 1341698
+        )
+
+)
+
+[2025-05-15 09:58:31] Database connection successful
+[2025-05-15 09:58:31] Personal info ID: 11
+[2025-05-15 09:58:31] Linked personal_info_id 11 to registration id 20260011
+[2025-05-15 09:58:31] Session data after save: Array
+(
+    [registration_id] => 20260011
+    [user_id] => 20260011
+    [email] => krisjaranilla09@gmail.com
+    [name] => Kris Jaranilla
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 11
+)
+
+[2025-05-16 07:52:12] Starting savestep1.php
+[2025-05-16 07:52:12] POST data: Array
+(
+    [last_name] => Jaud
+    [first_name] => earl arnulf
+    [middle_name] => Arante
+    [birth_date] => 2006-10-17
+    [age] => 18
+    [sex] => Male
+    [contact_number] => 09984175235
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175100000
+    [province_name] => Occidental Mindoro
+    [city] => 175102000
+    [city_name] => Calintaan
+    [barangay] => 175102001
+    [barangay_name] => Concepcion
+    [street] => Gamboa
+    [marital_status] => Domestic Partnership
+    [religion] => Islam
+    [orientation] => Bisexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => Yes
+    [disability_detail] => mental
+)
+
+[2025-05-16 07:52:12] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => canva.jpg
+            [full_path] => canva.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php8CFA.tmp
+            [error] => 0
+            [size] => 97114
+        )
+
+)
+
+[2025-05-16 07:52:12] Database connection successful
+[2025-05-16 07:52:12] Personal info ID: 12
+[2025-05-16 07:52:12] Linked personal_info_id 12 to registration id 20260012
+[2025-05-16 07:52:12] Session data after save: Array
+(
+    [chair_id] => 1
+    [chair_name] => DANES TUMABING
+    [designation] => Program Chair
+    [program] => BSIS
+    [campus] => Talisay
+    [registration_id] => 20260012
+    [user_id] => 20260012
+    [email] => earlarnulfj@gmail.com
+    [name] => earl arnulf Jaud
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 12
+)
+
+[2025-05-16 09:08:12] Starting savestep1.php
+[2025-05-16 09:08:12] POST data: Array
+(
+    [last_name] => lacaba
+    [first_name] => michael jhon
+    [middle_name] => A
+    [birth_date] => 1999-12-27
+    [age] => 25
+    [sex] => Male
+    [contact_number] => 09984175235
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064510000
+    [city_name] => City of Himamaylan
+    [barangay] => 064510012
+    [barangay_name] => Sara-et
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-16 09:08:12] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2024-11-16 223551.png
+            [full_path] => Screenshot 2024-11-16 223551.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php23A1.tmp
+            [error] => 0
+            [size] => 1341698
+        )
+
+)
+
+[2025-05-16 09:08:12] Database connection successful
+[2025-05-16 09:08:12] Personal info ID: 13
+[2025-05-16 09:08:12] Linked personal_info_id 13 to registration id 20260013
+[2025-05-16 09:08:12] Session data after save: Array
+(
+    [registration_id] => 20260013
+    [user_id] => 20260013
+    [email] => lacabamichaeljhon2@gmail.com
+    [name] => michael jhon lacaba
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 13
+)
+
+[2025-05-16 11:40:26] Starting savestep1.php
+[2025-05-16 11:40:26] POST data: Array
+(
+    [last_name] => Tumabing
+    [first_name] => Danes
+    [middle_name] => Palomero
+    [birth_date] => 2000-12-13
+    [age] => 24
+    [sex] => Male
+    [contact_number] => 09123456789
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064501000
+    [city_name] => City of Bacolod
+    [barangay] => 064501059
+    [barangay_name] => Villamonte
+    [street] => Malaspina
+    [marital_status] => Married
+    [religion] => Christianity
+    [orientation] => Heterosexual
+    [father_status] => Deceased
+    [father_education] => Graduate Degree
+    [father_employment] => Unemployed
+    [mother_status] => Alive; Away
+    [mother_education] => Graduate Degree
+    [mother_employment] => Unemployed
+    [siblings] => Two or more
+    [living_with] => Alone
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-16 11:40:26] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2024-11-15 214048.png
+            [full_path] => Screenshot 2024-11-15 214048.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php8151.tmp
+            [error] => 0
+            [size] => 238150
+        )
+
+)
+
+[2025-05-16 11:40:26] Database connection successful
+[2025-05-16 11:40:26] Personal info ID: 14
+[2025-05-16 11:40:26] Linked personal_info_id 14 to registration id 20260014
+[2025-05-16 11:40:26] Session data after save: Array
+(
+    [registration_id] => 20260014
+    [user_id] => 20260014
+    [email] => dtumabing@gmail.com
+    [name] => Danes Tumabing
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 14
+)
+
+[2025-05-18 03:38:34] Starting savestep1.php
+[2025-05-18 03:38:34] POST data: Array
+(
+    [last_name] => Regalado
+    [first_name] => Ashley
+    [middle_name] => Tumabing
+    [birth_date] => 2015-06-25
+    [age] => 9
+    [sex] => Male
+    [contact_number] => 09999999
+    [region] => 100000000
+    [region_name] => Northern Mindanao
+    [province] => 101300000
+    [province_name] => Bukidnon
+    [city] => 101311000
+    [city_name] => Libona
+    [barangay] => 101311014
+    [barangay_name] => Sil-ipon
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-18 03:38:34] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php6F0.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-18 03:38:34] Database connection successful
+[2025-05-18 03:38:34] Personal info ID: 15
+[2025-05-18 03:38:34] Session data after save: Array
+(
+    [user_id] => 27
+    [email] => acregalado.chmsu@gmail.com
+    [name] => Ashley Regalado
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 15
+)
+
+[2025-05-18 06:59:21] Starting savestep1.php
+[2025-05-18 06:59:21] POST data: Array
+(
+    [last_name] => Regalado
+    [first_name] => Ashley
+    [middle_name] => Jaranilla
+    [birth_date] => 2008-12-29
+    [age] => 16
+    [sex] => Male
+    [contact_number] => 09078060012
+    [region] => 110000000
+    [region_name] => Davao Region
+    [province] => 112400000
+    [province_name] => Davao Del Sur
+    [city] => 112406000
+    [city_name] => Kiblawan
+    [barangay] => 112406017
+    [barangay_name] => Manual
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-18 06:59:21] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpDBAC.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-18 06:59:21] Database connection successful
+[2025-05-18 06:59:21] Personal info ID: 16
+[2025-05-18 06:59:21] Session data after save: Array
+(
+    [user_id] => 20260015
+    [email] => bsis2d.regalado.ashleycaryll@gmail.com
+    [name] => Ashley Regalado
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 16
+)
+
+[2025-05-18 08:08:23] Starting savestep1.php
+[2025-05-18 08:08:23] POST data: Array
+(
+    [last_name] => Regalado
+    [first_name] => Ashley
+    [middle_name] => Caryll
+    [birth_date] => 2009-10-18
+    [age] => 15
+    [sex] => Female
+    [contact_number] => 09984175235
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064501000
+    [city_name] => City of Bacolod
+    [barangay] => 064501054
+    [barangay_name] => Punta Taytay
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-18 08:08:23] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2024-11-16 193325.png
+            [full_path] => Screenshot 2024-11-16 193325.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php1079.tmp
+            [error] => 0
+            [size] => 291897
+        )
+
+)
+
+[2025-05-18 08:08:23] Database connection successful
+[2025-05-18 08:08:23] Personal info ID: 17
+[2025-05-18 08:08:23] Session data after save: Array
+(
+    [user_id] => 20260015
+    [email] => bsis2d.regalado.ashleycaryll@gmail.com
+    [name] => Ashley Regalado
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 17
+)
+
+[2025-05-18 09:00:24] Starting savestep1.php
+[2025-05-18 09:00:24] POST data: Array
+(
+    [last_name] => Regalado
+    [first_name] => Ashley
+    [middle_name] => 
+    [birth_date] => 2020-01-29
+    [age] => 5
+    [sex] => Female
+    [contact_number] => 09984175235
+    [region] => 100000000
+    [region_name] => Northern Mindanao
+    [province] => 101300000
+    [province_name] => Bukidnon
+    [city] => 101313000
+    [city_name] => Malitbog
+    [barangay] => 101313009
+    [barangay_name] => Santa Ines
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-18 09:00:24] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2024-11-15 214048 - Copy.png
+            [full_path] => Screenshot 2024-11-15 214048 - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpB062.tmp
+            [error] => 0
+            [size] => 238150
+        )
+
+)
+
+[2025-05-18 09:00:24] Database connection successful
+[2025-05-18 09:00:24] Personal info ID: 18
+[2025-05-18 09:00:24] Session data after save: Array
+(
+    [user_id] => 20260015
+    [email] => bsis2d.regalado.ashleycaryll@gmail.com
+    [name] => Ashley Regalado
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 18
+    [profiling] => Array
+        (
+            [step2] => Array
+                (
+                    [last_school_attended] => CARLOS HILADO MEMORIAL STATE UNIVERSITY
+                    [strand] => ABM
+                    [year_graduated] => 2009
+                    [g11_1st_avg] => 98
+                    [g11_2nd_avg] => 90
+                    [g12_1st_avg] => 75
+                    [academic_award] => High Honors
+                )
+
+            [step2_completed] => 1
+        )
+
+)
+
+[2025-05-18 09:12:21] Starting savestep1.php
+[2025-05-18 09:12:21] POST data: Array
+(
+    [last_name] => Frayco
+    [first_name] => Coleen Jean
+    [middle_name] => 
+    [birth_date] => 2006-01-31
+    [age] => 19
+    [sex] => Female
+    [contact_number] => 09984175235
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064526000
+    [city_name] => City of Silay
+    [barangay] => 064526013
+    [barangay_name] => Lantad
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-18 09:12:21] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpA1A8.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-18 09:12:21] Database connection successful
+[2025-05-18 09:12:21] Personal info ID: 19
+[2025-05-18 09:12:21] Linked personal_info_id 19 to registration id 20260016
+[2025-05-18 09:12:21] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [registration_id] => 20260016
+    [user_id] => 20260016
+    [email] => bsis2d.regalado.ashleycaryll@gmail.com
+    [name] => Coleen Jean Frayco
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 19
+)
+
+[2025-05-18 17:45:26] Starting savestep1.php
+[2025-05-18 17:45:26] POST data: Array
+(
+    [last_name] => Casipe
+    [first_name] => Beverly
+    [middle_name] => 
+    [birth_date] => 2004-02-04
+    [age] => 21
+    [sex] => Female
+    [contact_number] => 09123456789
+    [region] => 030000000
+    [region_name] => Central Luzon
+    [province] => 031400000
+    [province_name] => Bulacan
+    [city] => 031404000
+    [city_name] => Bocaue
+    [barangay] => 031404013
+    [barangay_name] => Lolomboy
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-18 17:45:26] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => canva.jpg
+            [full_path] => canva.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php611B.tmp
+            [error] => 0
+            [size] => 97114
+        )
+
+)
+
+[2025-05-18 17:45:26] Database connection successful
+[2025-05-18 17:45:26] Personal info ID: 20
+[2025-05-18 17:45:26] Session data after save: Array
+(
+    [user_id] => 20260018
+    [email] => beverlycasipe9@gmail.com
+    [name] => Beverly Casipe
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 20
+)
+
+[2025-05-18 18:33:12] Starting savestep1.php
+[2025-05-18 18:33:12] POST data: Array
+(
+    [last_name] => Antolo
+    [first_name] => Efraim
+    [middle_name] => Egloria
+    [birth_date] => 2015-06-09
+    [age] => 9
+    [sex] => Female
+    [contact_number] => 09123456789
+    [region] => 140000000
+    [region_name] => CAR
+    [province] => 143200000
+    [province_name] => Kalinga
+    [city] => 143215000
+    [city_name] => Tinglayan
+    [barangay] => 143215019
+    [barangay_name] => Tulgao West
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-18 18:33:12] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2024-11-15 214048 - Copy.png
+            [full_path] => Screenshot 2024-11-15 214048 - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php1DB7.tmp
+            [error] => 0
+            [size] => 238150
+        )
+
+)
+
+[2025-05-18 18:33:12] Database connection successful
+[2025-05-18 18:33:12] Personal info ID: 21
+[2025-05-18 18:33:12] Session data after save: Array
+(
+    [user_id] => 20260019
+    [email] => kendiecola@gmail.com
+    [name] => Efraim Antolo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 21
+)
+
+[2025-05-18 18:47:57] Starting savestep1.php
+[2025-05-18 18:47:57] POST data: Array
+(
+    [last_name] => Santiago
+    [first_name] => Michael
+    [middle_name] => 
+    [birth_date] => 2010-02-02
+    [age] => 15
+    [sex] => Female
+    [contact_number] => 09123456789
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175900000
+    [province_name] => Romblon
+    [city] => 175913000
+    [city_name] => San Fernando
+    [barangay] => 175913010
+    [barangay_name] => Pili
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => Yes
+    [has_disability] => Yes
+    [disability_detail] => low eq
+)
+
+[2025-05-18 18:47:57] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php9D0A.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-18 18:47:57] Database connection successful
+[2025-05-18 18:47:57] Personal info ID: 22
+[2025-05-18 18:47:57] Session data after save: Array
+(
+    [chair_id] => 1
+    [chair_name] => DANES TUMABING
+    [designation] => Program Chair
+    [program] => BSIS
+    [campus] => Talisay
+    [user_id] => 20260020
+    [email] => yonemike10@gmail.com
+    [name] => Michael Santiago
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 22
+)
+
+[2025-05-19 06:43:14] Starting savestep1.php
+[2025-05-19 06:43:14] POST data: Array
+(
+    [last_name] => Regalado
+    [first_name] => Ashley
+    [middle_name] => GUIGGOO
+    [birth_date] => 2011-03-19
+    [age] => 14
+    [sex] => Male
+    [contact_number] => 42343423423
+    [region] => 080000000
+    [region_name] => Eastern Visayas
+    [province] => 082600000
+    [province_name] => Eastern Samar
+    [city] => 082614000
+    [city_name] => Maslog
+    [barangay] => 082614010
+    [barangay_name] => San Miguel
+    [street] => SFAFADSFSDGSD
+    [marital_status] => Divorced
+    [religion] => Islam
+    [orientation] => Bisexual
+    [father_status] => Alive; at Home
+    [father_education] => Bachelor's Degree
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => Bachelor's Degree
+    [mother_employment] => Employed Full-Time
+    [siblings] => Two or more
+    [living_with] => Both parents
+    [access_computer] => No
+    [access_internet] => No
+    [access_mobile] => No
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-19 06:43:14] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2024-11-04 203232 - Copy.png
+            [full_path] => Screenshot 2024-11-04 203232 - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpA347.tmp
+            [error] => 0
+            [size] => 854933
+        )
+
+)
+
+[2025-05-19 06:43:14] Database connection successful
+[2025-05-19 06:43:14] Personal info ID: 23
+[2025-05-19 06:43:14] Linked personal_info_id 23 to registration id 27
+[2025-05-19 06:43:14] Session data after save: Array
+(
+    [id] => 27
+    [email] => acregalado.chmsu@gmail.com
+    [name] => Ashley Regalado
+    [role] => student
+    [user_id] => 27
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 23
+)
+
+[2025-05-19 07:58:35] Starting savestep1.php
+[2025-05-19 07:58:35] POST data: Array
+(
+    [last_name] => Regalado
+    [first_name] => Ashley Caryll
+    [middle_name] => 
+    [birth_date] => 2008-02-13
+    [age] => 17
+    [sex] => Female
+    [contact_number] => 09984175235
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064526000
+    [city_name] => City of Silay
+    [barangay] => 064526016
+    [barangay_name] => Rizal
+    [street] => Gamboa
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-05-19 07:58:35] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => melanie.jpg
+            [full_path] => melanie.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php9E7A.tmp
+            [error] => 0
+            [size] => 62826
+        )
+
+)
+
+[2025-05-19 07:58:35] Database connection successful
+[2025-05-19 07:58:35] Personal info ID: 24
+[2025-05-19 07:58:35] Linked personal_info_id 24 to registration id 20260021
+[2025-05-19 07:58:35] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 20260021
+    [email] => rubymae.morante@chmsc.edu.ph
+    [name] => Ashley Caryll Regalado
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 24
+)
+
+[2025-10-05 10:45:37] Starting savestep1.php
+[2025-10-05 10:45:37] POST data: Array
+(
+    [last_name] => barrios
+    [first_name] => alyssa
+    [middle_name] => wjhdhjj
+    [birth_date] => 2005-02-02
+    [age] => 20
+    [sex] => Male
+    [contact_number] => 09837287362
+    [region] => 140000000
+    [region_name] => CAR
+    [province] => 141100000
+    [province_name] => Benguet
+    [city] => 141111000
+    [city_name] => Mankayan
+    [barangay] => 141111011
+    [barangay_name] => Sapid
+    [street] => lerio
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => Yes
+    [was_scholar] => Yes
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 10:45:37] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-10 065942 - Copy - Copy.png
+            [full_path] => Screenshot 2025-04-10 065942 - Copy - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php5669.tmp
+            [error] => 0
+            [size] => 84864
+        )
+
+)
+
+[2025-10-05 10:45:37] Database connection successful
+[2025-10-05 10:45:37] Personal info ID: 25
+[2025-10-05 10:45:37] Linked personal_info_id 25 to registration id 20260032
+[2025-10-05 10:45:37] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 20260032
+    [email] => barriosalaissaaaa@gmail.com
+    [name] => alyssa barrios
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 25
+)
+
+[2025-10-05 10:55:46] Starting savestep1.php
+[2025-10-05 10:55:46] POST data: Array
+(
+    [last_name] => barrios
+    [first_name] => alyssa
+    [middle_name] => wjhdhjj
+    [birth_date] => 2010-02-05
+    [age] => 15
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 120000000
+    [region_name] => SOCCSKSARGEN
+    [province] => 126300000
+    [province_name] => South Cotabato
+    [city] => 126318000
+    [city_name] => Santo Niño
+    [barangay] => 126318010
+    [barangay_name] => Sajaneba
+    [street] => hdjhjshdjshdjhdjs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => No
+    [was_scholar] => Yes
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 10:55:46] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-06 131911.png
+            [full_path] => Screenshot 2025-04-06 131911.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpA421.tmp
+            [error] => 0
+            [size] => 193736
+        )
+
+)
+
+[2025-10-05 10:55:46] Database connection successful
+[2025-10-05 10:55:46] Personal info ID: 26
+[2025-10-05 10:55:46] Linked personal_info_id 26 to registration id 20260032
+[2025-10-05 10:55:46] Session data after save: Array
+(
+    [user_id] => 20260032
+    [email] => barriosalaissaaaa@gmail.com
+    [name] => alyssa barrios
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 26
+)
+
+[2025-10-05 11:13:04] Starting savestep1.php
+[2025-10-05 11:13:04] POST data: Array
+(
+    [last_name] => barrios
+    [first_name] => alyssa
+    [middle_name] => wjhdhjj
+    [birth_date] => 2025-10-08
+    [age] => -1
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 140000000
+    [region_name] => CAR
+    [province] => 144400000
+    [province_name] => Mountain Province
+    [city] => 144407000
+    [city_name] => Sabangan
+    [barangay] => 144407014
+    [barangay_name] => Supang
+    [street] => gcgfdgfdgd
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => Yes
+    [first_gen_college] => No
+    [was_scholar] => Yes
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 11:13:04] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-10 065942 - Copy.png
+            [full_path] => Screenshot 2025-04-10 065942 - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php79B9.tmp
+            [error] => 0
+            [size] => 84864
+        )
+
+)
+
+[2025-10-05 11:13:04] Database connection successful
+[2025-10-05 11:13:04] Personal info ID: 27
+[2025-10-05 11:13:04] Linked personal_info_id 27 to registration id 20260032
+[2025-10-05 11:13:04] Session data after save: Array
+(
+    [user_id] => 20260032
+    [email] => barriosalaissaaaa@gmail.com
+    [name] => alyssa barrios
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 27
+)
+
+[2025-10-05 11:33:45] Starting savestep1.php
+[2025-10-05 11:33:45] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 11:33:45] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-10 065942 - Copy - Copy.png
+            [full_path] => Screenshot 2025-04-10 065942 - Copy - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php68EB.tmp
+            [error] => 0
+            [size] => 84864
+        )
+
+)
+
+[2025-10-05 11:33:45] Database connection successful
+[2025-10-05 11:33:45] Personal info ID: 1
+[2025-10-05 11:33:45] Linked personal_info_id 1 to registration id 2
+[2025-10-05 11:33:45] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:15:36] Starting savestep1.php
+[2025-10-05 12:15:36] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:15:36] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:15:36] Database connection successful
+[2025-10-05 12:15:36] Error occurred: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in field list is ambiguous
+[2025-10-05 12:16:05] Starting savestep1.php
+[2025-10-05 12:16:05] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:16:05] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:16:05] Database connection successful
+[2025-10-05 12:16:05] Personal info ID: 1
+[2025-10-05 12:16:05] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:16:05] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:16:16] Starting savestep1.php
+[2025-10-05 12:16:16] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:16:16] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:16:16] Database connection successful
+[2025-10-05 12:16:16] Personal info ID: 1
+[2025-10-05 12:16:16] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:16:16] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:16:27] Starting savestep1.php
+[2025-10-05 12:16:27] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:16:27] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:16:27] Database connection successful
+[2025-10-05 12:16:27] Personal info ID: 1
+[2025-10-05 12:16:27] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:16:27] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:17:22] Starting savestep1.php
+[2025-10-05 12:17:22] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:17:22] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-10 065942 - Copy - Copy.png
+            [full_path] => Screenshot 2025-04-10 065942 - Copy - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php5901.tmp
+            [error] => 0
+            [size] => 84864
+        )
+
+)
+
+[2025-10-05 12:17:22] Database connection successful
+[2025-10-05 12:17:22] Personal info ID: 1
+[2025-10-05 12:17:22] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:17:22] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:17:32] Starting savestep1.php
+[2025-10-05 12:17:32] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:17:32] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-10 065942 - Copy - Copy.png
+            [full_path] => Screenshot 2025-04-10 065942 - Copy - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php7D24.tmp
+            [error] => 0
+            [size] => 84864
+        )
+
+)
+
+[2025-10-05 12:17:32] Database connection successful
+[2025-10-05 12:17:32] Personal info ID: 1
+[2025-10-05 12:17:32] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:17:32] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:19:28] Starting savestep1.php
+[2025-10-05 12:19:28] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:19:28] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:19:28] Database connection successful
+[2025-10-05 12:19:28] Personal info ID: 1
+[2025-10-05 12:19:28] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:19:28] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:19:33] Starting savestep1.php
+[2025-10-05 12:19:33] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:19:33] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:19:33] Database connection successful
+[2025-10-05 12:19:33] Personal info ID: 1
+[2025-10-05 12:19:33] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:19:33] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:19:40] Starting savestep1.php
+[2025-10-05 12:19:40] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:19:40] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:19:40] Database connection successful
+[2025-10-05 12:19:40] Personal info ID: 1
+[2025-10-05 12:19:40] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:19:40] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:22:22] Starting savestep1.php
+[2025-10-05 12:22:22] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:22:22] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-05 113050 - Copy.png
+            [full_path] => Screenshot 2025-04-05 113050 - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpEBAB.tmp
+            [error] => 0
+            [size] => 434355
+        )
+
+)
+
+[2025-10-05 12:22:22] Database connection successful
+[2025-10-05 12:22:22] Personal info ID: 1
+[2025-10-05 12:22:22] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:22:22] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:24:12] Starting savestep1.php
+[2025-10-05 12:24:12] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:24:12] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:24:12] Database connection successful
+[2025-10-05 12:24:12] Personal info ID: 1
+[2025-10-05 12:24:12] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:24:12] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:24:40] Starting savestep1.php
+[2025-10-05 12:24:40] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:24:40] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-10 065942 - Copy - Copy.png
+            [full_path] => Screenshot 2025-04-10 065942 - Copy - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php796.tmp
+            [error] => 0
+            [size] => 84864
+        )
+
+)
+
+[2025-10-05 12:24:40] Database connection successful
+[2025-10-05 12:24:40] Personal info ID: 1
+[2025-10-05 12:24:40] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:24:40] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:25:14] Starting savestep1.php
+[2025-10-05 12:25:14] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:25:14] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:25:14] Database connection successful
+[2025-10-05 12:25:14] Personal info ID: 1
+[2025-10-05 12:25:14] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:25:14] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:26:14] Starting savestep1.php
+[2025-10-05 12:26:14] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:26:14] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-05 113050 - Copy.png
+            [full_path] => Screenshot 2025-04-05 113050 - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php759E.tmp
+            [error] => 0
+            [size] => 434355
+        )
+
+)
+
+[2025-10-05 12:26:14] Database connection successful
+[2025-10-05 12:26:14] Personal info ID: 1
+[2025-10-05 12:26:14] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:26:14] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 12:55:41] Starting savestep1.php
+[2025-10-05 12:55:41] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city_name] => 
+    [barangay_name] => 
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:55:41] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:55:41] Error: Missing required fields: city_name, barangay_name
+[2025-10-05 12:57:59] Starting savestep1.php
+[2025-10-05 12:57:59] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => wjhdhjj
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 12:57:59] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 12:57:59] Database connection successful
+[2025-10-05 12:57:59] Personal info ID: 1
+[2025-10-05 12:57:59] Linked personal_info_id 1 to registration id 2
+[2025-10-05 12:57:59] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 13:01:09] Starting savestep1.php
+[2025-10-05 13:01:09] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => marfil
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 13:01:09] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-05 113050 - Copy.png
+            [full_path] => Screenshot 2025-04-05 113050 - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php6E15.tmp
+            [error] => 0
+            [size] => 434355
+        )
+
+)
+
+[2025-10-05 13:01:09] Database connection successful
+[2025-10-05 13:01:09] Personal info ID: 1
+[2025-10-05 13:01:09] Linked personal_info_id 1 to registration id 2
+[2025-10-05 13:01:09] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 13:05:13] Starting savestep1.php
+[2025-10-05 13:05:13] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => marfils
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 13:05:13] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 13:05:13] Database connection successful
+[2025-10-05 13:05:13] Personal info ID: 1
+[2025-10-05 13:05:13] Linked personal_info_id 1 to registration id 2
+[2025-10-05 13:05:13] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 13:05:21] Starting savestep1.php
+[2025-10-05 13:05:21] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => marfils
+    [age] => 7
+    [birth_date] => 2018-06-05
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 170000000
+    [region_name] => MIMAROPA Region
+    [province] => 175200000
+    [province_name] => Oriental Mindoro
+    [city] => 175205000
+    [city_name] => City of Calapan
+    [barangay] => 175205013
+    [barangay_name] => Calero (Pob.)
+    [street] => jhdsjhdjshdjhs
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 13:05:21] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-05 13:05:21] Database connection successful
+[2025-10-05 13:05:21] Personal info ID: 1
+[2025-10-05 13:05:21] Linked personal_info_id 1 to registration id 2
+[2025-10-05 13:05:21] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 2
+    [email] => krisjaranilla09@gmail.com
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-05 13:32:37] Starting savestep1.php
+[2025-10-05 13:32:37] POST data: Array
+(
+    [last_name] => rizal
+    [first_name] => mark lorenz
+    [middle_name] => hjhjfeh
+    [age] => 8
+    [birth_date] => 2017-06-06
+    [sex] => Male
+    [contact_number] => 8989898989
+    [region] => 140000000
+    [region_name] => CAR
+    [province] => 142700000
+    [province_name] => Ifugao
+    [city] => 142708000
+    [city_name] => Aguinaldo
+    [barangay] => 142708012
+    [barangay_name] => Posnaan
+    [street] => hghghg
+    [marital_status] => Married
+    [religion] => None
+    [orientation] => Homosexual
+    [father_status] => Alive; at Home
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 13:32:37] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-05 113050.png
+            [full_path] => Screenshot 2025-04-05 113050.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php3BC0.tmp
+            [error] => 0
+            [size] => 434355
+        )
+
+)
+
+[2025-10-05 13:32:37] Database connection successful
+[2025-10-05 13:32:37] Personal info ID: 2
+[2025-10-05 13:32:37] Linked personal_info_id 2 to registration id 3
+[2025-10-05 13:32:37] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Previous Academic Year
+    [user_id] => 3
+    [email] => jerunddc14@gmail.com
+    [name] => mark lorenz rizal
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 2
+)
+
+[2025-10-05 13:39:12] Starting savestep1.php
+[2025-10-05 13:39:12] POST data: Array
+(
+    [last_name] => rizal
+    [first_name] => mark lorenz
+    [middle_name] => wjhdhjj
+    [age] => 8
+    [birth_date] => 2017-03-01
+    [sex] => Male
+    [contact_number] => 6776766767
+    [region] => 110000000
+    [region_name] => Davao Region
+    [province] => 112400000
+    [province_name] => Davao Del Sur
+    [city] => 112407000
+    [city_name] => Magsaysay
+    [barangay] => 112407011
+    [barangay_name] => Mabini
+    [street] => ugggttgttyty
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => Both parents
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-05 13:39:12] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-04-05 113050 - Copy.png
+            [full_path] => Screenshot 2025-04-05 113050 - Copy.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php437B.tmp
+            [error] => 0
+            [size] => 434355
+        )
+
+)
+
+[2025-10-05 13:39:12] Database connection successful
+[2025-10-05 13:39:12] Personal info ID: 1
+[2025-10-05 13:39:12] Linked personal_info_id 1 to registration id 3
+[2025-10-05 13:39:12] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Previous Academic Year
+    [user_id] => 3
+    [email] => jerunddc14@gmail.com
+    [name] => mark lorenz rizal
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 1
+)
+
+[2025-10-06 11:03:51] Starting savestep1.php
+[2025-10-06 11:03:51] POST data: Array
+(
+    [last_name] => regalado
+    [first_name] => ashly
+    [middle_name] => JARANILLA
+    [age] => 21
+    [birth_date] => 2003-12-29
+    [sex] => Female
+    [contact_number] => 9312312434
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064501000
+    [city_name] => City of Bacolod
+    [barangay] => 064501054
+    [barangay_name] => Punta Taytay
+    [street] => Mangga
+    [marital_status] => Single
+    [religion] => None
+    [orientation] => Heterosexual
+    [father_status] => Unknown
+    [father_education] => No High School Diploma
+    [father_employment] => Unemployed
+    [mother_status] => Alive; Away
+    [mother_education] => No High School Diploma
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => One parent only
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => No
+    [was_scholar] => No
+    [received_honors] => No
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-06 11:03:51] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-10-06 125807.png
+            [full_path] => Screenshot 2025-10-06 125807.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpBB62.tmp
+            [error] => 0
+            [size] => 36243
+        )
+
+)
+
+[2025-10-06 11:03:51] Database connection successful
+[2025-10-06 11:03:51] Personal info ID: 25
+[2025-10-06 11:03:51] Linked personal_info_id 25 to registration id 20260032
+[2025-10-06 11:03:51] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 20260032
+    [email] => matyasaqoe@gmail.com
+    [name] => ashly regalado
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 25
+)
+
+[2025-10-19 12:52:47] Starting savestep1.php
+[2025-10-19 12:52:47] POST data: Array
+(
+    [last_name] => guiagogo
+    [first_name] => mark lloyd
+    [middle_name] => marfil
+    [age] => 23
+    [birth_date] => 2001-12-22
+    [sex] => Male
+    [contact_number] => 9614376716
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064521000
+    [city_name] => Pontevedra
+    [barangay] => 064521001
+    [barangay_name] => Antipolo
+    [street] => Purok Lerio
+    [marital_status] => Single
+    [religion] => Christianity
+    [orientation] => Heterosexual
+    [father_status] => Alive; Away
+    [father_education] => High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => High School Diploma
+    [mother_employment] => Unemployed
+    [siblings] => One
+    [living_with] => Relatives
+    [access_computer] => No
+    [access_internet] => No
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-19 12:52:47] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => Screenshot 2025-10-15 111055.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpFF6D.tmp
+            [error] => 0
+            [size] => 62745
+        )
+
+)
+
+[2025-10-19 12:52:47] Database connection successful
+[2025-10-19 12:52:47] Personal info ID: 27
+[2025-10-19 12:52:47] Linked personal_info_id 27 to registration id 20260034
+[2025-10-19 12:52:47] Session data after save: Array
+(
+    [applicant_status] => New Applicant - Same Academic Year
+    [user_id] => 20260034
+    [email] => marklloyd.guiagogo@chmsc.edu.ph
+    [name] => mark lloyd guiagogo
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 27
+)
+
+[2025-10-28 14:28:48] Starting savestep1.php
+[2025-10-28 14:28:48] POST data: Array
+(
+    [last_name] => REGALADO
+    [first_name] => ASHLEY CARYLL
+    [middle_name] => 
+    [age] => 21
+    [birth_date] => 2003-12-10
+    [sex] => Female
+    [contact_number] => 9704643801
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064501000
+    [city_name] => City of Bacolod
+    [barangay] => 064501054
+    [barangay_name] => Punta Taytay
+    [street] => Mangga
+    [marital_status] => Single
+    [religion] => Christianity
+    [orientation] => Heterosexual
+    [father_status] => Unknown
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => Graduate Degree
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => One parent only
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-28 14:28:48] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-28 14:28:48] Database connection successful
+[2025-10-28 14:28:48] Personal info ID: 26
+[2025-10-28 14:28:48] Linked personal_info_id 26 to registration id 20260033
+[2025-10-28 14:28:48] Session data after save: Array
+(
+    [user_id] => 20260033
+    [email] => acregalado.chmsu@gmail.com
+    [name] => ASHLEY CARYLL REGALADO
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 26
+    [chair_id] => 3
+    [chair_name] => DANES TUMABING
+    [designation] => Program Chair
+    [program] => BSIS
+    [campus] => Talisay
+    [user_type] => chairperson
+)
+
+[2025-10-28 14:29:01] Starting savestep1.php
+[2025-10-28 14:29:01] POST data: Array
+(
+    [last_name] => REGALADO
+    [first_name] => ASHLEY CARYLL
+    [middle_name] => 
+    [age] => 21
+    [birth_date] => 2003-12-10
+    [sex] => Female
+    [contact_number] => 9704643801
+    [region] => 060000000
+    [region_name] => Western Visayas
+    [province] => 064500000
+    [province_name] => Negros Occidental
+    [city] => 064501000
+    [city_name] => City of Bacolod
+    [barangay] => 064501054
+    [barangay_name] => Punta Taytay
+    [street] => Mangga
+    [marital_status] => Single
+    [religion] => Christianity
+    [orientation] => Heterosexual
+    [father_status] => Unknown
+    [father_education] => No High School Diploma
+    [father_employment] => Employed Full-Time
+    [mother_status] => Alive; Away
+    [mother_education] => Graduate Degree
+    [mother_employment] => Employed Full-Time
+    [siblings] => None
+    [living_with] => One parent only
+    [access_computer] => Yes
+    [access_internet] => Yes
+    [access_mobile] => Yes
+    [indigenous_group] => No
+    [first_gen_college] => Yes
+    [was_scholar] => No
+    [received_honors] => Yes
+    [has_disability] => No
+    [disability_detail] => 
+)
+
+[2025-10-28 14:29:01] FILES data: Array
+(
+    [id_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[2025-10-28 14:29:01] Database connection successful
+[2025-10-28 14:29:01] Personal info ID: 26
+[2025-10-28 14:29:01] Linked personal_info_id 26 to registration id 20260033
+[2025-10-28 14:29:01] Session data after save: Array
+(
+    [user_id] => 20260033
+    [email] => acregalado.chmsu@gmail.com
+    [name] => ASHLEY CARYLL REGALADO
+    [role] => student
+    [form_data] => Array
+        (
+            [step1] => Array
+                (
+                )
+
+            [step2] => Array
+                (
+                )
+
+            [step3] => Array
+                (
+                )
+
+            [step4] => Array
+                (
+                )
+
+        )
+
+    [personal_info_id] => 26
+    [chair_id] => 3
+    [chair_name] => DANES TUMABING
+    [designation] => Program Chair
+    [program] => BSIS
+    [campus] => Talisay
+    [user_type] => chairperson
+)
+

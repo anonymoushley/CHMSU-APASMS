@@ -1,0 +1,32 @@
+{
+  "name": "chmsu-apasms-tests",
+  "version": "1.0.0",
+  "description": "Cypress test suite for CHMSU APASMS",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open",
+    "test:cases": "cypress run --spec 'cypress/e2e/test-cases-execution.cy.js'",
+    "test:chmsu": "cypress run --spec 'cypress/e2e/chmsu-test-cases.cy.js'",
+    "test:chmsu-complete": "cypress run --spec 'cypress/e2e/chmsu-complete-test-cases.cy.js'",
+    "test:chmsu-full": "cypress run --spec 'cypress/e2e/chmsu-full-test-cases.cy.js'",
+    "test:complete": "cypress run --spec 'cypress/e2e/complete-test-suite.cy.js'",
+    "test:registration": "cypress run --spec 'cypress/e2e/registration.cy.js'",
+    "test:login": "cypress run --spec 'cypress/e2e/login.cy.js'",
+    "test:profiling": "cypress run --spec 'cypress/e2e/profiling.cy.js'",
+    "test:exam": "cypress run --spec 'cypress/e2e/exam-management.cy.js'",
+    "test:interview": "cypress run --spec 'cypress/e2e/interview.cy.js'",
+    "test:admin": "cypress run --spec 'cypress/e2e/admin-management.cy.js'",
+    "test:validation": "cypress run --spec 'cypress/e2e/additional-validation.cy.js'",
+    "test:all": "cypress run --spec 'cypress/e2e/**/*.cy.js'",
+    "test:headed": "cypress run --headed",
+    "test:chrome": "cypress run --browser chrome",
+    "test:firefox": "cypress run --browser firefox",
+    "test:report": "node test-runner.js",
+    "test:chmsu-report": "node chmsu-test-runner.js",
+    "test:json": "cypress run --reporter json --reporter-options output=test-results.json",
+    "test:html": "cypress run --reporter html --reporter-options output=cypress/reports"
+  },
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
+}

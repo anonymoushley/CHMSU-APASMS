@@ -1,0 +1,17 @@
+{
+    "chair_id": 1,
+    "chair_name": "Maria Chair",
+    "designation": "Program Chair",
+    "program": "BSIS",
+    "campus": "Talisay",
+    "user_id": 27,
+    "email": "acregalado.chmsu@gmail.com",
+    "name": "Ashley Regalado",
+    "role": "student",
+    "form_data": {
+        "step1": [],
+        "step2": [],
+        "step3": [],
+        "step4": []
+    }
+}
